@@ -1,0 +1,12 @@
+C:\Users\1999k\OneDrive\Documents\Visual Studio 2012\Projects\Chani_Project\Chani_Project\bin\Debug\Chani_Project.exe.config
+C:\Users\1999k\OneDrive\Documents\Visual Studio 2012\Projects\Chani_Project\Chani_Project\obj\Debug\Chani_Project.exe
+C:\Users\1999k\OneDrive\Documents\Visual Studio 2012\Projects\Chani_Project\Chani_Project\obj\Debug\Chani_Project.pdb
+C:\Users\1999k\OneDrive\Documents\Visual Studio 2012\Projects\Chani_Project\Chani_Project\obj\Debug\Final_Project.csprojResolveAssemblyReference.cache
+C:\Users\1999k\OneDrive\Documents\Visual Studio 2012\Projects\Chani_Project\Chani_Project\obj\Debug\Final_Project.Form1.resources
+C:\Users\1999k\OneDrive\Documents\Visual Studio 2012\Projects\Chani_Project\Chani_Project\obj\Debug\Final_Project.Form2.resources
+C:\Users\1999k\OneDrive\Documents\Visual Studio 2012\Projects\Chani_Project\Chani_Project\obj\Debug\Final_Project.Form3.resources
+C:\Users\1999k\OneDrive\Documents\Visual Studio 2012\Projects\Chani_Project\Chani_Project\obj\Debug\Final_Project.Form4.resources
+C:\Users\1999k\OneDrive\Documents\Visual Studio 2012\Projects\Chani_Project\Chani_Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\1999k\OneDrive\Documents\Visual Studio 2012\Projects\Chani_Project\Chani_Project\obj\Debug\Final_Project.csproj.GenerateResource.Cache
+C:\Users\1999k\OneDrive\Documents\Visual Studio 2012\Projects\Chani_Project\Chani_Project\bin\Debug\Chani_Project.exe
+C:\Users\1999k\OneDrive\Documents\Visual Studio 2012\Projects\Chani_Project\Chani_Project\bin\Debug\Chani_Project.pdb
